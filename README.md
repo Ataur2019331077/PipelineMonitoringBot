@@ -75,6 +75,9 @@ python main.py
 
 ---
 
+## Preview
+![start-img](./images/start.jpg)
+
 ## 📥 Example Output
 
 ### Telegram Message
